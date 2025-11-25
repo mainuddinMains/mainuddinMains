@@ -87,19 +87,29 @@ Innovation Challenge project for wildfire & toxic-air detection using NASA MPASS
 
 ---
 
-## 📊 GitHub Stats (Light Theme)
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mainuddinMains&show_icons=true&theme=default&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mainuddinMains&layout=compact&theme=default&hide_border=true" />
-</p>
+<!-- Main stats -->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=mainuddinMains&show_icons=true&theme=transparent&hide_border=true"
+  alt="Mainuddin's GitHub stats"
+/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mainuddinMains&theme=default&hide_border=true" />
-</p>
+<!-- Top languages -->
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mainuddinMains&layout=compact&theme=transparent&hide_border=true"
+  alt="Top Languages"
+/>
+
+<!-- Streak -->
+<img
+  src="https://streak-stats.demolab.com?user=mainuddinMains&theme=default&hide_border=true"
+  alt="GitHub Streak"
+/>
+
+</div>
 
 ---
 
