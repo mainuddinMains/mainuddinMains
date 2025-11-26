@@ -3,9 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=F5F5F5&height=180&section=header&text=Mainuddin&fontSize=60&fontAlign=50&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20Software%20Development&descAlignY=60&animation=fadeIn" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Mainuddin</h1>
-<p align="center">AI, Machine Learning & Software Development Enthusiast</p>
-
 ---
 
 ## 🧩 Something About Me
