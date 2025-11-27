@@ -1,10 +1,10 @@
 <!-- 🌤️ Light Theme Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=F5F5F5&height=240&section=header&fontSize=40&text=Welcome%20to%20my%20Profile&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=9BC9FF&height=200&section=header&text=Welcome%20To%20My%20Profile&fontSize=42&fontColor=0F172A&animation=fadeIn" />
 </p>
 
-<h2 align="center">I'm Mainuddin</h2>
-<h3 align="center">Interested in | AI | ML | Software Development | Data</h3>
+<h1 align="center" style="color:#0F172A;">I'm Mainuddin</h1>
+<h3 align="center" style="color:#1E293B;">Interested in | AI | ML | Software Development | Data</h3>
 
 ---
 
