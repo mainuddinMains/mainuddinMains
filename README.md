@@ -1,8 +1,10 @@
 <!-- 🌤️ Light Theme Header Banner -->
-<h2 align="center">Welcome to my Profile 🤝</h2>
-<h1 align="center"><b>I'm Mainuddin</b></h1>
-<h3 align="center">Interested in | AI | ML | Software Development | Data</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FBC2EB&color2=FDE2E4&height=230&section=header&text=Welcome%20To%20My%20Profile&fontSize=42&fontColor=2D2D2D&animation=fadeIn" />
 
+<h1 align="center" style="color:#2D2D2D;">I'm Mainuddin</h1>
+<h3 align="center" style="color:#3A3A3A;">Interested in | AI | ML | Software Development | Data</h3>
+</p>
 ---
 
 ## 🧩 Something About Me
