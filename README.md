@@ -43,27 +43,6 @@ I’ve worked on **AI agents, full-stack applications, mobile apps, data visuali
 </p>
 
 ---
-
-## 🚀 Featured Projects
-
-### 🔹 Travel Assistant – AI-Powered Trip Planning Tool  
-Full-stack web application using **React + FastAPI + PostgreSQL**, Google Maps API, LLM-based recommendations, and Dockerized deployment.
-
-### 🔹 Mood Mirror – Emotion Detection + Music Recommendation  
-AI-powered emotion analysis using **DeepFace/FER**, mapped to Spotify playlists.
-
-### 🔹 Racecar AI — RuleAgent & MyAgent  
-Improved AI agent performance with centering logic, cornering, emergency handling, and speed optimization.
-
-### 🔹 2048 Expectimax Agent  
-Expectimax algorithm with heuristics (monotonicity, smoothness, snake pattern, empty tiles).
-
-### 🔹 Clothing1M Benchmark  
-Running SOTA noisy-label models locally and preparing Hugging Face Space deployment.
-
-### 🔹 AirGuard – Hazard-Area Detection System  
-Innovation Challenge project for wildfire & toxic-air detection using NASA MPASS sensor concept.
-
 ---
 
 ## 💼 Experience
