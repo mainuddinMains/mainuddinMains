@@ -42,34 +42,6 @@ I’ve worked on **AI agents, full-stack applications, mobile apps, data visuali
 
 ## projects
 
-## 📊 GitHub Stats
-
-<!-- Main stats -->
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=mainuddinMains&show_icons=true&theme=transparent&hide_border=true"
-    alt="Mainuddin's GitHub stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mainuddinMains&layout=compact&theme=transparent&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
-
-<!-- Streak -->
-<img
-  src="https://streak-stats.demolab.com?user=mainuddinMains&theme=default&hide_border=true"
-  alt="GitHub Streak"
-/>
-
-</div>
-
----
 
 ## 🌐 Connect with Me
 <p>
