@@ -32,11 +32,6 @@ I’ve worked on **AI agents, full-stack applications, mobile apps, data visuali
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=light" />
 </p>
 
-- Search Algorithms: UCS, BFS, A\*, Expectimax  
-- LLM-based assistants, RAG-style design  
-- Emotion Detection (DeepFace, FER)  
-- Hugging Face model deployment  
-
 ### **DevOps & Tools**
 <p>
   <img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman,nginx&theme=light" />
