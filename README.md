@@ -45,25 +45,7 @@ I’ve worked on **AI agents, full-stack applications, mobile apps, data visuali
 ---
 ---
 
-## 💼 Experience
-
-### 📊 Data Visualization Associate — Excelerate  
-- Cleaned & analyzed real-world datasets  
-- Built interactive dashboards  
-- Delivered presentations & insights  
-
-### 📱 Flutter Mobile App Development Intern — Excelerate  
-- Built UI screens & API-integrated features  
-- Weekly GitHub-based project delivery  
-- Focused on user experience & responsiveness  
-
-### 🎯 Digital Strategy / Project Management (Early Internship)  
-- Marketing Mix Report  
-- Digital Audit  
-- RACE Planning  
-- Final presentation delivery  
-
----
+## projects
 
 ## 📊 GitHub Stats
 
