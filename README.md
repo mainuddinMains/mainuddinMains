@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=180&section=header&text=Mainuddin%20Sarker&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=180&section=header&text=Mainuddin%&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
 </p>
 
 <p align="center">
