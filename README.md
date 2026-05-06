@@ -1,6 +1,10 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=220&section=header&text=Building%20the%20Future%20of%20Agentic%20AI%20%26%20Data%20Analytics&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mainuddin%20Sarker%20%7C%20MS%20Computer%20Science%20%40%20Saint%20Louis%20University&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=180&section=header&text=Mainuddin%20Sarker&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Building+the+Future+of+Agentic+AI;MS+Computer+Science+%40+Saint+Louis+University;AI+%7C+ML+%7C+Full-Stack+%7C+Data+Analytics" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -26,7 +30,7 @@ I am an MS Computer Science candidate at Saint Louis University, specializing in
 
 <!-- TIP: Replace each placeholder image with a GIF or screenshot of the project -->
 
-### 🔬 Grant Compass
+### 🔬 [Grant Compass](https://github.com/mainuddinMains/grant-compass)
 > AI-powered research grant matching tool for university faculty and researchers.
 
 | | |
@@ -40,7 +44,7 @@ I am an MS Computer Science candidate at Saint Louis University, specializing in
 
 ---
 
-### 🏙️ Urban STL Analytics &nbsp; `🥇 HackSLU 2026 Winner`
+### 🏙️ [Urban STL Analytics](https://github.com/mainuddinMains/urban-stl-analytics) &nbsp; `🥇 HackSLU 2026 Winner`
 > Agentic data exploration platform for urban planning insights in St. Louis.
 
 | | |
@@ -54,7 +58,7 @@ I am an MS Computer Science candidate at Saint Louis University, specializing in
 
 ---
 
-### ✈️ Travel-Assistant
+### ✈️ [Travel-Assistant](https://github.com/mainuddinMains/travel-assistant)
 > AI-powered trip planner with intelligent route optimization.
 
 | | |
@@ -68,7 +72,7 @@ I am an MS Computer Science candidate at Saint Louis University, specializing in
 
 ---
 
-### 📚 Planora
+### 📚 [Planora](https://github.com/mainuddinMains/planora)
 > Smart academic planning and study management platform.
 
 | | |
@@ -94,7 +98,17 @@ I am an MS Computer Science candidate at Saint Louis University, specializing in
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
 </p>
 
-> Also: LangChain · LlamaIndex · OpenAI API · Hugging Face · Scikit-learn · Pandas · NumPy · Plotly · Streamlit
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-6929C4?style=flat-square&logo=llama&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+</p>
 
 ### Frontend / Backend
 <p>
